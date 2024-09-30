@@ -1,0 +1,25 @@
+.foto{
+    display: flex;
+    justify-content: center;
+    margin-top:10% ;    
+}
+img{
+    width: 50%;
+    border-radius: 40%;
+    padding-top: 10%;
+}
+.contacto{
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: lightblue;
+    padding-bottom: 5%;
+    
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+

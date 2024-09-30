@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome", // Cambia a 'chrome' ya que Brave se basa en Chromium
+            "request": "launch",
+            "name": "Open index.html in Brave",
+            "url": "file:///c:/Users/AMF/Desktop/DESARROLLO DE INTERFACES/PROYECTO CLASE/index.html",
+            "webRoot": "c:/Users/AMF/Desktop/DESARROLLO DE INTERFACES/PROYECTO CLASE"
+        }
+    ]
+}
